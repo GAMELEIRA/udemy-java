@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 /**
  * AUTOR:GABRIEL GAMELEIRA DOS SANTOS
- * DATA:29/01/2019
+ * DATA:29/01/2020
  * HORA:19:22
  * FINALIDADE DO PROGRAMA:LER O INICIO E FIM DE UM JOGO E SABER SEU TEMPO DE DURACAO
  */
@@ -56,8 +56,6 @@ public class Main {
 				System.out.println("Não é possivel calcular pois os momentos não respeitaram o min e max de duração de um jogo.");
 				
 			}
-			
-			
 			
 		}
 
